@@ -21,6 +21,10 @@ a common problem...>
 - <list of things the project will cover, like web development, or 3D, or using a specific crate>
 - ...
 
+## Resources to get started
+
+<list of links explaining required concepts, crates to use, maybe a plan for how to build the crate>
+
 ## Mentor(s)
 
 <If you're willing to mentor someone to do this project, write your github username here,
